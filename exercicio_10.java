@@ -6,7 +6,7 @@ package br.edu.etec.atividade.joption;
 
 /**
  *
- * @author sabri
+ * @author madpais
  */
 
 import javax.swing.JOptionPane;
